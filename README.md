@@ -20,3 +20,6 @@ It helps users understand their symptoms and decide whether they need emergency 
 
 ## 🎯 Purpose
 To reduce unnecessary hospital visits and guide patients effectively.
+
+
+website link : https://charming-copper-zf49ulrbrd.edgeone.app/
