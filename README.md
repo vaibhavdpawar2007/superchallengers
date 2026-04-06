@@ -1,1 +1,1 @@
-# superchallengers
+git rm -r *# superchallengers
