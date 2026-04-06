@@ -1,7 +1,7 @@
 
-# 🏥 CARE PATH.AI – Smart Symptom Triage & Care Navigation Assistant
+# 🏥 MEDGUIDE– Smart Symptom Triage & Care Navigation Assistant
 
-🚀 **CARE PATH.AI** is an AI-powered healthcare assistant designed to help users understand their symptoms and make informed decisions about seeking medical care.
+🚀 **MEDGUIDE** is an AI-powered healthcare assistant designed to help users understand their symptoms and make informed decisions about seeking medical care.
 
 Millions of patients visit hospitals for non-emergency issues while critical cases face delays. MEDIGUIDE aims to solve this problem by providing intelligent triage guidance and directing users to the right level of care.
 
@@ -20,7 +20,7 @@ This leads to inefficient care and increased risk for patients in real emergenci
 
 ## 💡 Our Solution
 
-CARE PATH.AI provides:
+MEDGUIDE provides:
 - Smart symptom analysis
 - AI-based triage recommendations
 - Clear guidance on:
@@ -76,10 +76,7 @@ Users simply enter their symptoms, and the system evaluates severity and suggest
 ---
 
 ## 🌐 Live Demo
-
-👉 [View Project](https://beloved-shells-static2.website/carepath-ai)
-
----
+https://mediguid.lovable.app
 
 ## 📌 Conclusion
 
