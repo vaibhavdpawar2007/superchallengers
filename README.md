@@ -22,4 +22,5 @@ It helps users understand their symptoms and decide whether they need emergency 
 To reduce unnecessary hospital visits and guide patients effectively.
 
 
-website link : https://present-amber-zahv43g8tm.edgeone.app/
+website link : https://beloved-shells.static2.website/carepath-ai1
+
